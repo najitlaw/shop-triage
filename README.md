@@ -52,6 +52,6 @@ graph TD
 
 | platform | method | possible |
 | -------- | ------ | -------- |
-| shopware |  | ✅ |
-| ebay |  | ✅ |
-| ricardo |  | ✅ |
+| shopware | https://docs.shopware.com/en/shopware-6-en/settings/Flow-Builder | ✅⚠️ |
+| ebay | https://developer.ebay.com/Devzone/guides/features-guide/default.html#Notifications/Notif-ItemSold.html?TocPath=Working%2520with%2520Platform%2520Notifications%257C_____29 | ✅⚠️ |
+| ricardo | - | 🛑 |
