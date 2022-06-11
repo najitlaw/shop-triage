@@ -48,8 +48,6 @@ graph TD
 
 ### api
 
-### api
-
 | platform | method | possible |
 | -------- | ------ | -------- |
 | shopware | https://docs.shopware.com/en/shopware-6-en/settings/Flow-Builder | ✅⚠️ |
